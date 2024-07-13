@@ -40,3 +40,6 @@
 13. Using Temp Table to perform Calculation on Partition By in previous query
 
 14. Creating View to store data for later visualizations
+
+
+RESOURCES : https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
